@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 this is a simple web project
+
+## Copyright
+
+added the copyright notice
